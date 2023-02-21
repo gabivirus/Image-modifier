@@ -1,0 +1,10 @@
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\bin\Debug\Image-modifier.exe.config
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\bin\Debug\Image-modifier.exe
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\bin\Debug\Image-modifier.pdb
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image-modifier.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image_modifier.PictureBox.resources
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image_modifier.Properties.Resources.resources
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image-modifier.csproj.GenerateResource.cache
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image-modifier.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image-modifier.exe
+C:\Users\Manager\source\repos\gabivirus\Systems-Development\Desenvolvimento de Sistemas\DS - I\#002\Image-modifier\Image-modifier\obj\Debug\Image-modifier.pdb
